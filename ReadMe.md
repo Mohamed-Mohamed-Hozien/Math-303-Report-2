@@ -2,7 +2,7 @@
 
 ## Ridge Regression
 
-**By Yousef Tarek 202201545**<br/>
+**By Yousef Tarek 202201545**<br/><br/>
 **Ridge Regression** is a technique for analyzing multiple regression data that suffer from multicollinearity. When multicollinearity occurs, least squares estimates are unbiased, but their variances are large so they may be far from the true value. By adding a degree of bias to the regression estimates, ridge regression reduces the standard errors.
 
 ## Lasso Regression
