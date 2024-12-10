@@ -14,3 +14,5 @@
 
 **By Ziad Moataz2 202201252**<br/><br/>
 **Elastic Net Regression** is a type of linear regression that uses L1 and L2 regularization to prevent overfitting. It is a combination of L1 and L2 regularization. The L1 regularization adds a penalty equal to the absolute value of the magnitude of coefficients. The L2 regularization adds a penalty equal to the square of the magnitude of coefficients. The elastic net adds both of these penalties to the loss function.
+
+Note: when running the notebook, make sure to run the dataset section every time you want to run the regression models.
